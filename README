@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4916
+
+Vim has a lot of different boolean options  cursorline, number, list, spell, etc. Toggle them gracefully.
+
+Much of onoff.vim was extracted from my vimrc. Plugin provides an API to switch boolean options in Vim. After each turn option value shown at bottom of the window.
+
+More documentation can be found on GitHub page
+
+https://github.com/vitalk/vim-onoff
+
+Copyright (c) by Vital Kudzelka.
+
+Distributed under the same terms as Vim itself. See :help license.
